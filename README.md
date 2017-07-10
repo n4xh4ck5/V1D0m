@@ -1,7 +1,9 @@
 # V1D0m
 Enumerate subdomains through Virustotal
+
 <pre>
 python v1d0m.py -h
+
 usage: v1d0m.py [-h] [-e EXPORT] -d DOMAIN
 
 This script obtains subdomains throught VirusTotal
